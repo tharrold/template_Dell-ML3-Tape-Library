@@ -9,6 +9,9 @@ Zabbix Version: 7.4
 Instructions:
 
 -Create your host (ML3 library)
+
 -Setup SNMPv2 or SNMPv3 on the ML3 library
+
 -Configure Zabbix host with proper SNMP community name, or SNMPv3 credentials
+
 -Add this template to the host
